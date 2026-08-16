@@ -31,3 +31,7 @@ Passionate software engineer focused on building scalable systems, backend archi
 ---
 
 *Let's build something great together.*
+
+## Scope and safety
+
+Use this project only with systems, accounts, data, and networks you own or are explicitly authorized to assess. Do not use it to bypass access controls, collect private data, disrupt services, process payment-card data, or impersonate people.
